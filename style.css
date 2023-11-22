@@ -1,0 +1,13 @@
+body{ background-color: azure;
+font-size: 20px;
+
+}
+h2{
+
+    color:black ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.contenaire {
+    display: flex;
+}
